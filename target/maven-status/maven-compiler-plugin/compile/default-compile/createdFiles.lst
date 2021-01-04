@@ -1,0 +1,8 @@
+com\br\OrangeZup\controller\impl\UserControllerImpl.class
+com\br\OrangeZup\service\UserService.class
+com\br\OrangeZup\model\User.class
+com\br\OrangeZup\OrangeZupApplication.class
+com\br\OrangeZup\service\impl\UserSerciceImpl.class
+com\br\OrangeZup\model\BaseEntity.class
+com\br\OrangeZup\repository\UserRepository.class
+com\br\OrangeZup\controller\UserController.class
